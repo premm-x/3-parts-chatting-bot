@@ -25,6 +25,3 @@ The architecture allows easy scaling and separation of concerns.
 - **Other:** Swagger UI for FastAPI  
 
 ---
-
-## Folder Structure
-
